@@ -19,5 +19,3 @@ fi
 
 echo "Starting server from $BIN"
 exec "$BIN"
-
-
